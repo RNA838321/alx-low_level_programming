@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
  * main serves as the entry point for the program
+ *
  * Return:By defualt returns zero if no errors otherwise returns non zero value
  */
 

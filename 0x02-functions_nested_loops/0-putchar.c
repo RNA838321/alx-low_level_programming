@@ -5,8 +5,6 @@
  * Return: Always 0 (Success)
  */
 
-void _putchar();
-
 int main(void)
 {
 	_putchar('_');

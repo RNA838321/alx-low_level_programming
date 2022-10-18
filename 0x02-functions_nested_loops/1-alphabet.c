@@ -4,7 +4,7 @@
  * print_alphabet - Entry point
  * Return:0
  */
-char putchar(c);
+int putchar(c);
 
 void print_alphabet(void)
 {

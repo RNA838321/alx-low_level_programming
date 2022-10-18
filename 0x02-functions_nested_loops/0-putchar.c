@@ -5,9 +5,9 @@
  * Return: Always 0 (Success)
  */
 
-void _putchar(void);
+void _putchar();
 
-int main()
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -19,5 +19,5 @@ int main()
 	_putchar('r');
 	_putchar('\n');
 
-	return ();
+	return (0);
 }
